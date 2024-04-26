@@ -12,5 +12,5 @@
 scoreboard objectives add Sec dummy
 scoreboard objectives add Min dummy 
 scoreboard objectives add Hour dummy 
-scoreboard objectives add Balance d￼ummy
+scoreboard objectives add Balance dummy
 scoreboard objectives add Level dummy
