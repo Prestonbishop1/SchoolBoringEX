@@ -1,1 +1,1 @@
-
+/titleraw @a[scores={Level=0..4},tag=!Vip,tag=!mod19 ,tag=!admin21,tag=!owner72] actionbar {"rawtext":[{"text":"§l§o§³§9Dark Kit-PvP\n§6"},{"selector":"*"},{"text":" Stats\n§aMoney:§2 $"},{"score":{"name":"*","objective":"Balance"}},{"text":"\n§9Time:§b "},{"score":{"name":"*","objective":"Hour"}},{"text":"Hour "},{"score":{"name":"*","objective":"Min"}},{"text":"Min "},{"score":{"name":"*","objective":"Sec"}},{"text":"Sec§c\nKills: "},{"score":{"name":"*","objective":"Level"}},{"text":" §dRank: §fNewcomer
